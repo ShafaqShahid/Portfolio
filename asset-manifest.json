@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.abe9bb71.css",
-    "main.js": "/Portfolio/static/js/main.1bdf2a83.js",
+    "main.js": "/Portfolio/static/js/main.4dbfa240.js",
     "static/js/787.128fc6e9.chunk.js": "/Portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/Zamin.mp4": "/Portfolio/static/media/Zamin.13e3ffe81371576d139a.mp4",
     "static/media/QuranInsight.mp4": "/Portfolio/static/media/QuranInsight.a8788d388e5fcc427df9.mp4",
@@ -13,11 +13,11 @@
     "static/media/Logo.png": "/Portfolio/static/media/Logo.309cd3424cfbf1b45064.png",
     "index.html": "/Portfolio/index.html",
     "main.abe9bb71.css.map": "/Portfolio/static/css/main.abe9bb71.css.map",
-    "main.1bdf2a83.js.map": "/Portfolio/static/js/main.1bdf2a83.js.map",
+    "main.4dbfa240.js.map": "/Portfolio/static/js/main.4dbfa240.js.map",
     "787.128fc6e9.chunk.js.map": "/Portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abe9bb71.css",
-    "static/js/main.1bdf2a83.js"
+    "static/js/main.4dbfa240.js"
   ]
 }
