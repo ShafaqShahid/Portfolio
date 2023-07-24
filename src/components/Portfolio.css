@@ -9,6 +9,7 @@
 }
   .project-card {
     width: 300px;
+    color: #ffffff;
     background-color: #dd6fb8; /* Purple gradient background color */
     border-radius: 10px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);

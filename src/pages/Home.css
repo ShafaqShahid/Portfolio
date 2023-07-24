@@ -22,6 +22,8 @@ body {
 }
 
 .project-cards {
+  
+  padding: 20px;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
@@ -62,6 +64,14 @@ body {
 }
 .contact {
   background: linear-gradient(to right, #6c63ff, #cc2695);  padding: 100px;
+  color: #fff;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+.certifications {
+  background: linear-gradient(to right, #8a86d8, #f3a5d9);  
+  padding: 100px;
   color: #fff;
   text-align: center;
   display: flex;

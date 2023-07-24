@@ -10,6 +10,7 @@ const Portfolio = () => {
   return (
     <div id="portfolio">
       <div className="project-cards">
+      <a href="https://shafaqshahid.github.io/BakhtawarMehmood/" target="_blank" rel="noopener noreferrer">
       <div className="project-card">
         <div className="video-container">
           <video autoPlay muted loop id="video-background">
@@ -24,7 +25,7 @@ const Portfolio = () => {
         Introducing Bakhtawar Mehmood's personal website, developed using a combination of HTML, CSS, JavaScript, jQuery, PHP, and MySQL. This website serves as a platform for showcasing her details and achievements. With an intuitive admin side, Bakhtawar can easily modify the website's content to her preference. Additionally, the website incorporates SEO feature."       
          </p>
       </div>
-      
+      </a>
       <div className="project-card">
         <div className="video-container">
           <video autoPlay muted loop id="video-background-zamin">
